@@ -1,6 +1,6 @@
 # ExplicámeloFacil
 
-**ExplicámeloFacil** es una app que esta pensada para ayudar a estudiantes de primaria y secundaria. Acá podés subir tus dudas escolares y recibir una mano de otros estudiantes, profes o incluso de un bot que te responde al toque. La idea no es darle la repuesta, sino guiarlo hasta llegar al resultado esperado, ayudandolo a entender el paso a paso de cada consulta que haga, de manera sencilla.
+**ExplicámeloFacil** es una app que está pensada para ayudar a estudiantes de primaria y secundaria. Acá podés subir tus dudas escolares y recibir una mano de otros estudiantes, profes o incluso de un bot que te responde al toque. La idea no es darle la respuesta, sino guiarlo hasta llegar al resultado esperado, ayudándolo a entender el paso a paso de cada consulta que haga, de manera sencilla.
 
 ## ¿Qué hace esta app?
 
@@ -25,9 +25,44 @@
 - **Almacenamiento de audio**: Cloudinary o Firebase Storage
 
 ## Estructura del proyecto
-ExplicameloFacil/ 
-├── client/ → Acá va la parte visual (app web o mobile) 
-├── server/ → El backend, las rutas, la lógica 
-├── docs/ → Documentación, ideas, diagramas 
-├── assets/ → Imágenes, logos, capturas, etc. 
-├── README.md
+
+ExplicameloFacil/  
+├── client/ → Acá va la parte visual (app web o mobile)  
+├── server/ → El backend, las rutas, la lógica  
+├── docs/ → Documentación, ideas, diagramas  
+├── assets/ → Imágenes, logos, capturas, etc.  
+├── README.md  
+
+## Inspiración
+
+Este proyecto se inspira en plataformas como:
+
+- Brainly (https://brainly.lat/ preguntas escolares)
+- Educ.ar (https://educ.ar/ contenidos escolares oficiales)
+- ChatGPT (https://chat.openai.com/ respuesta automática)
+- MatesFácil y TareasPlus (https://www.tareasplus.com/, https://www.matesfacil.com/ ejemplos resueltos paso a paso)
+
+Pero se diferencia por su enfoque en el proceso de aprendizaje y en ayudar a entender, no solo resolver.
+
+## Identidad
+
+- Nombre: ExplicámeloFacil
+- Estilo: claro, accesible y pensado para estudiantes reales
+- Colores y fuentes: todavía en definición, se prioriza lo simple
+
+## Próximos pasos
+
+- Crear pantallas de carga de preguntas y respuestas
+- Integrar el sistema de audio
+- Conectar con un bot que responda preguntas básicas
+- Implementar login y perfiles
+- Validar contenido con profesores
+- Hacerlo liviano, funcional y usable desde el celular
+
+## Autor del proyecto
+
+**Mateo Gabriel Aguero** – Villa Carlos Paz, Córdoba.  
+Estudiante de Ingeniería en Software.  
+Apasionado por la educación, la tecnología y por construir herramientas que ayuden de verdad.  
+> “La idea es que cualquier pibe o piba pueda entender sus dudas sin depender de que alguien se las resuelva.”
+
